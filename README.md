@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository. Hello World!
+Hello world! My name is John and I'm new to coding. I'm currently studying through freecodecamp!
